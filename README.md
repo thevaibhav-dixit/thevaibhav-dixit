@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thevaibhav-dixit
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ... Django 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Bitcoin
+- 🌱 I’m currently learning ... Bitcoin, Vue, Django 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
 <!---
