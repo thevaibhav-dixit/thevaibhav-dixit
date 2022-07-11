@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @thevaibhav-dixit
-- 👀 I’m interested in Bitcoin
-- 🌱 I’m currently learning ... Bitcoin, Vue, Django 
-- 💞️ I’m looking to collaborate on Bitcoin, Backend Development
+- 👋 Hi, I’m Vaibhav
+- 👀 I’m interested in Bitcoin, TypeScript, Rust 
+- 🌱 I’m currently learning ... Bitcoin, Rust, LN, Backend Deevlopment, Frontend Development 
+- 💞️ I’m looking to collaborate on Bitcoin Open Source Projects, Rust, TypeScript Projects
 - 📫 How to reach me ...  thevaibhavdixit@gmail.com
 
 <!---
