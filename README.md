@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Vaibhav
-- 👀 I’m interested in Bitcoin, TypeScript, Rust 
-- 🌱 I’m currently learning ... Bitcoin, Rust, LN, Backend Deevlopment, Frontend Development 
-- 💞️ I’m looking to collaborate on Bitcoin Open Source Projects, Rust, TypeScript Projects
-- 📫 How to reach me ...  thevaibhavdixit@gmail.com
+[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 thevaibhav-dixit/thevaibhav-dixit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
