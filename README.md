@@ -1,6 +1,12 @@
-[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=thevaibhav-dixit)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Hi 👋, I'm Vaibhav</h1>
+<h3 align="center">A Bitcoin Enthusiast.</h3>
 
-<!---
-thevaibhav-dixit/thevaibhav-dixit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **Rust**.
+
+- 💬 Ask me about **TypeScript, Python**.
+
+- 📫 How to reach me **thevaibhavdixit@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
