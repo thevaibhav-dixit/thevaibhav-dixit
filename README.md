@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">Bitcoin Enthusiast</h3>
+<h3 align="center">Noob Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevaibhav-dixit&label=Profile%20views&color=0e75b6&style=flat" alt="thevaibhav-dixit" /> </p>
 
